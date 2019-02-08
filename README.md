@@ -1,6 +1,3 @@
-# HttpRequestExample
-This repo show usage of HttpRequest using OkHtpp library to get json from HttpRequest or load json from local json.
-
 # Android Demo Simple Http Request.
 
 **Level :** *Beginner*
